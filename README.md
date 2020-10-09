@@ -11,7 +11,7 @@ Pip
 3. Add C:\Program Files (x86)\Microsoft SDKs\MPI to Path user environment variable
 4. run "pip install mpi4py" in cmd
 
-# Execution
+# Execution:
 Open cmd<br>
 cd [location of folder]<br>
 Serial: python RabinKarpSerial.py filenames.txt multipattern.txt<br>
