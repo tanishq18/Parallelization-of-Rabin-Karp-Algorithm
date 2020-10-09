@@ -1,6 +1,3 @@
-#mpiexec -n 6 python pdc_parallel.py filenames.txt multipattern.txt
-#cd C:\Users\wadhw\Documents\PDC Project\Parallel
-
 from mpi4py import MPI
 import numpy as np
 from sys import argv
