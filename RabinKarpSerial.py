@@ -1,6 +1,3 @@
-#python RabinKarpSerial.py filenames.txt multipattern.txt
-#cd C:\Users\wadhw\Documents\PDC Project\Parallel
-
 import time
 import string
 from sys import argv
