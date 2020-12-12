@@ -18,4 +18,6 @@ Serial: python RabinKarpSerial.py filenames.txt multipattern.txt<br>
 Parallel: mpiexec -n [no of processors] python pdc_parallel.py filenames.txt multipattern.txt<br>
 
 To check availble no of processors on your system:<br>
-Ctrl + Shift + Esc>Performance>Logical Processors
+Ctrl + Shift + Esc>Performance>Logical Processors<br>
+
+Project Report: https://bit.ly/ProjectReportsOfTanishqWadhwani
